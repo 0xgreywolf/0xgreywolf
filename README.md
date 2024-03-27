@@ -1,5 +1,5 @@
 
-<h1 align="center"><i>"Enthralled in the game of smart contract security."</i></h1>
+<h1 align="center"><i>"Traversing the game of smart contract security."</i></h1>
 
 <div align="center">
   
