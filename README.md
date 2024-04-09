@@ -14,3 +14,4 @@
 
 
 <h1 align="center"><i>"Traversing the game of smart contract security."</i></h1>
+<p align="center"><b> ** STARTED IN JANUARY 2024 **</b></p>
