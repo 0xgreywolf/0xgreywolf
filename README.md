@@ -1,9 +1,9 @@
 
-<h3 align="center">Work In Progress!</h3>
+<h1 align="center">Competitive Audits</h1
 
 <div align="center">
   
-| Date | Protocol | Description | Findings | Platform |
+| DATE | PROTOCOL | DESCRIPTION | FINDINGS | PLATFORM |
 | :---: | :---: |---| :---: | :---: |
 | MAR 2024 | [Revert Lend](https://twitter.com/revertfinance) | A lending protocol specifically designed for liquidity providers on Uniswap V3. | [1QA](https://code4rena.com/@0xGreyWolf) | Code4rena
 | FEB 2024 | [AI Arena](https://twitter.com/aiarena_) | Train an AI character to battle in a platform fighting game. | [1M](https://code4rena.com/@0xGreyWolf) | Code4rena
@@ -13,6 +13,4 @@
 
 <div>
 
-
-<h1 align="center">Competitive Audits</h1>
-<p align="center"><i><b> * Started January 2024 *</b></i></p>
+<p align="center"><b> * STARTED JANUARY 2024 * <br></b> <i> Work in progress! </i></p>
