@@ -1,5 +1,5 @@
 
-<h3 align="center"><i>Work In Progress!</i></h3>
+<h3 align="center">Work In Progress!</h3>
 
 <div align="center">
   
@@ -14,5 +14,5 @@
 <div>
 
 
-<h1 align="center"><i>"Traversing the game of smart contract security."</i></h1>
-<p align="center"><b> * STARTED IN JANUARY 2024 *</b></p>
+<h1 align="center">Competitive Audits</h1>
+<p align="center"><i><b> * Started January 2024 *</b></i></p>
