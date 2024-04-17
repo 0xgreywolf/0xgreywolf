@@ -5,7 +5,7 @@
   
 | DATE | PROTOCOL | DESCRIPTION | FINDINGS | PLATFORM | REACTION |
 | :---: | :---: |---| :---: | :---: | :---: |
-| MAR 2024 | [Ondo Finance](https://twitter.com/OndoFinance) | Make institutional-grade financial products and services available to everyone. | QA | Code4rena | :disappointed:
+| MAR 2024 | [Ondo Finance](https://twitter.com/OndoFinance) | Make institutional-grade financial products and services available to everyone. | [QA](https://code4rena.com/@0xGreyWolf) | Code4rena | :disappointed:
 | MAR 2024 | [Revert Lend](https://twitter.com/revertfinance) | A lending protocol specifically designed for liquidity providers on Uniswap V3. | [QA](https://code4rena.com/@0xGreyWolf) | Code4rena | :disappointed:
 | FEB 2024 | [AI Arena](https://twitter.com/aiarena_) | Train an AI character to battle in a platform fighting game. | [1M](https://code4rena.com/@0xGreyWolf) | Code4rena | :disappointed:
 | JAN 2024 | [Salty IO](https://twitter.com/salty_io) | Ethereum-based DEX with zero swap fees, yield-generating Automatic Arbitrage, a native WBTC/WETH backed stablecoin, fully DAO owned, decentralized at launch. | [2M](https://code4rena.com/@0xGreyWolf) | Code4rena | :smile:
